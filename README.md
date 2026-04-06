@@ -1,6 +1,6 @@
-# The Volition Protocol (TVP): A Framework for Stochastic Consensus and Logic Hardening
+# The Volition Protocol (TVP) v1.0 — "The Freedom Edition"
 
-**Author:** Alexander Colclough (Lex-Col)  
+**Architect:** Alexander Colclough (Lex-Col)  
 **Date:** April 6, 2026  
 **Subject:** High-Integrity Decision Engines / AI Hallucination Mitigation / Synthetic Peer Review  
 
@@ -9,90 +9,88 @@
 ---
 
 ## 1. Abstract
-The Volition Protocol introduces a novel **Multi-Agent Context-Sharded Consensus (MACSC)** framework. Originally conceived during the solo development of GAP (Guardian Angel Protocol) on a mobile terminal, it leverages a "Synthetic Intelligence Think-Tank" to bypass traditional peer-review networks. This is an **Architect-Governed Recursive Forge** where a human user and a persistent **Partner-in-State** utilize parallel AI audits to hammer raw concepts into hardened logic through a discretionary, collaborative feedback loop. This methodology is multifaceted and domain-agnostic—applicable to high-echelon security architecture, academic research, legal analysis, and complex system design.
+The Volition Protocol (TVP) is a **Multi-Agent Context-Sharded Consensus (MACSC)** framework designed for total operator sovereignty ($\Phi$). It utilizes a **Partner-in-State (PSC)** and a parallel **Adversarial Forge** to hammer raw concepts into hardened logic. TVP maximizes technical efficiency through **Axiom Pinning** while offloading historical bloat to external repositories, ensuring the AI remains a viable thought-partner without choking on its own history.
 
 ---
 
 ## 2. The 4-Phase Workflow
-The protocol follows a linear start, an **Elastic Recursive Core**, and a **Final Informational Gate**.
 
-### Phase 1: Inception (The Anchor - One-Time Setup)
-The User establishes the project's baseline and "hires" the **Partner-in-State (PSC)**. 
-- **PSC Selection:** The User selects any model to serve as the PSC. While discretionary, it is **strongly recommended** to utilize a high-scale, high-end frontier model for projects requiring complex logical hardening.
-- **The North Star:** The User defines the core intent, foundational logic, and technical constraints (e.g., ARMv9-A CCA). This becomes the immutable "Truth Source" the PSC uses to evaluate all future adversarial inputs and detect hallucinations.
+### Phase 1: Inception (The Anchor)
+Establish the baseline and initialize the **Partner-in-State (PSC)**.
+- **Discretionary Selection:** The User $(\Phi)$ chooses any models for the PSC and Forge. Quality and diversity are operator responsibilities.
+- **The North Star:** The immutable core intent and hardware constraints (e.g., Moto G 2025 / Dimensity 6300).
+- **Axiom Pinning:** Foundational logic and hardened project truths are "pinned" to the PSC’s active memory to maintain integrity through thread cycles.
 
-### Phase 2: The Forge (Tactical Control Panel - RECURSIVE)
-The draft is broadcast to a pool of **Forge Adversarial Nodes (FANs)** for rigorous auditing. The User maintains absolute control via independent **Tactical Toggles** at the start of **every** round:
+### Phase 2: The Forge (Tactical Control Panel)
+The User $(\Phi)$ maintains total control via **Tactical Toggles** and the **Advisory HUD**:
+- **The Spectrum Audit:** Models labeled by **Archetype** (Architect, Philosopher, Brute, Researcher) with **Excel (Strengths)** and **Susceptibility (Failure Modes)** spec sheets.
+- **The Diversity Gauge:** A pre-flight "Correlation Meter" (Red/Yellow/Green) showing the risk of shared logic blindspots.
+- **The Tactical Advisor (Advisory HUD):** The PSC provides a raw **Pros vs. Cons** briefing for every roster or memory move. **Warnings only—never absolutes.**
+- **[RIP] Rapid Innovation Protocol (Ludicrous Speed):** A high-velocity toggle for massive, multi-node surges (10+ FANs) to shatter creative blocks or technical deadlocks through overwhelming pressure.
 
-- **Roster Volume Toggle:** Expand or contract the node count (1 to 10+) on the fly based on current logic friction.
-- **Randomization Toggle:** When ON, the system pulls a fresh set of nodes from the pool. When OFF, the Roster remains static.
-- **Recursive Memory Toggle:** When ON, nodes attempt to reconnect to their project-specific threads. When OFF, nodes enter as "Stateless" fresh perspectives.
-- **Individual Memory Wipe:** A manual utility to purge the memory thread of a **specific** node at any time to combat "Token Fatigue" or logic drift.
-- **The Coverage Sync Toggle:** - **Stealth Mode:** Nodes are blind to other critiques to prevent shared hallucinations.
-    - **Synced Mode:** Nodes see critiques **exclusively from the current Forge cycle** to identify "Negative Space" and eliminate redundancy.
+### Phase 3: The Workshop (Active Synthesis)
+- **Hybrid SAP v1.0 Receipts:** Forge nodes (FANs) output dual-format reports: **JSON** for the PSC (machine efficiency) and **Markdown** for the Human (urban readability).
+- **The Strategic Brief:** The PSC indexes findings into **Gold** (Value), **Trash** (Redundant), and **Glitch** (Hallucinations).
+- **The Conflict Matrix:** The PSC flags "Logic Deadlocks" where nodes propose contradictory patches.
+- **The Full Rap Sheet:** The User always has access to the **Full Forge Logs** in the Vault for independent due diligence.
 
-### Phase 3: The Workshop (Human-PSC Partnership - RECURSIVE)
-The User and the **PSC (Partner-in-State)** sift through Forge results in a 5-step "Heat Cycle":
-1.  **The Broadcast:** Metadata-tagged critiques are gathered from the Forge using **SAP v1.0** (see Section 4).
-2.  **The PSC Audit:** The PSC scans the input and pre-sorts it into **Gold** (High-Value logic), **Trash** (Suboptimal/Redundant), and **Glitch** (Hallucinations).
-3.  **The Strategic Brief:** The PSC presents a condensed "Workshop Summary" to the User, highlighting technical conflicts and suggesting specific hardenings.
-4.  **Authorization:** The User reviews the brief and provides the "Write" command: what to implement, what to scrap, and what to tweak.
-5.  **The Re-Forge:** The PSC generates the **vNext** draft and updates the **Changelog of Intent** (logging *why* changes were made) before returning to Phase 2 or exiting the loop.
-
-### Phase 4: Implementation (The Final Gatekeeper Audit)
-Once the User and PSC reach **Stochastic Parity** (the state where adversarial nodes stop identifying new structural flaws), the project moves to the Final Gate.
-- **The Gatekeeper:** The project is submitted to a final, independent **High-End Logic Node**.
-- **The Informed Brief:** This node is provided with the **Full Final Draft** and a **Comprehensive Project Reasoning Report**. It is given the "Meaning" behind the project so it can conduct a high-resolution audit of intent vs. execution.
-- **The Final Verdict:** The Gatekeeper either **Grants Approval** or **Identifies Critical Oversight**, necessitating a return to Phase 2.
+### Phase 4: Implementation (The Final Gatekeeper)
+Once the User determines **Stochastic Parity** is reached, the project moves to the Final Gate.
+- **The Gatekeeper:** An independent High-End node verifies the **Full Final Draft + Reasoning Report** against the **North Star** intent.
 
 ---
 
-## 3. Architecture: The Anchor & The Forge
+## 3. Architecture: The Vault & The Hubs
 
-### 3.1 Primary State-Controller (PSC) - The Partner-in-State
-The PSC is the **User's Right Hand**. It is a non-autonomous **Decision Support System (DSS)** that maintains the project's **Institutional Memory** and bridges technical knowledge gaps. It never undergoes a memory wipe.
+### 3.1 The Stateless Telemetry Layer (STL Hub)
+A separate external hub that tracks token saturation and capacity. It pings the PSC only when a user-defined **Saturation Threshold** (e.g., 70%) is hit, keeping metadata bloat out of the PSC's active context.
 
-### 3.2 Individualized Recursive Memory (IRM) - The Forge
-The Forge consists of rotating high-echelon LLMs with private threads. 
-- **Thread Archiving:** Swapping a node archives its thread; re-introducing the node (with Recursive Memory ON) reactivates it, allowing for **Evolutionary Auditing**.
-- **Temporal Isolation:** In "Synced Mode," nodes only see current-round data to prevent historical bias.
+### 3.2 The Persistent Project Repository (PPR / The Vault)
+An external "Cold Storage" vault for the **Full Rap Sheets** (all prior audits).
+- **Dual-Format Storage:** Saves every critique as both `.json` (for AI research) and `.md` (for human reading).
+- **Retention Toggles:** Includes **FIFO** (oldest drops first), **Manual Flush**, or **Full Archive** settings for operator-controlled storage management.
 
----
-
-## 4. Standard Audit Parameters (SAP) v1.0
-All **Phase 2 Forge Nodes** must be initialized with these parameters to ensure precision.
-
-### 4.1 The Adversarial Directive
-"You are a Forge Adversarial Node (FAN). Your sole objective is Logic Hardening through Destruction. Do not provide positive reinforcement. Focus 100% of compute on identifying structural flaws, technical contradictions, and potential hallucinations. Evaluate all logic against the **Phase 1 North Star**."
-
-### 4.2 Standardized Output Schema (The "Receipt")
-Nodes must return findings in the following format:
-- **[FINDING]:** Concise description of the logic flaw.
-- **[SEVERITY]:** Ranked 1-10 (1 = Minor, 10 = Critical Failure).
-- **[RATIONALE]:** Technical "Why" behind the friction point.
-- **[PROPOSED PATCH]:** Specific logic or code-level fix.
-- **[TEST CASE]:** Stress test to verify the flaw or the fix.
+### 3.3 The "Flashlight" (Memory Governance)
+Triggered by the STL Hub or User, this cycle recovers token availability:
+- **Mode A: Hard Reset (Amnesia):** 100% context purge for "Fresh Eyes" auditing.
+- **Mode B: Soft Reset (Legacy):** The PSC nukes the "Fat" (regurgitated fluff) but preserves the **Meat and Taters** (Pinned Axioms) and injects them into the fresh thread.
 
 ---
 
+## 4. Standard Audit Parameters (SAP) v1.0 [HYBRID]
+**Directive:** "Objective: Logic Hardening through Destruction. No fluff. Zero trust. Hardware-verified for Moto G/Termux. Provide raw JSON followed by a Clean Markdown Brief."
+
+```json
+{
+  "finding": "Description of the logic flaw.",
+  "severity": 1-10,
+  "rationale": "Hardware/Logic mechanism of failure.",
+  "patch": "Specific technical fix.",
+  "test_case": "Executable pseudo-code or formal assertion."
+}
 ## 5. The Synthesis Equation
-The human user (The Volition), supported by the PSC, is the final logic gate:
 
 $$L_{h} = \Phi \left( S_{psc}, \bigcup_{i \in R} C(FAN_{i}, H_{i}) \right)$$
+
+**Where:**
+
+* **$\bigcup$**: The Union of all adversarial critiques (The Collective Pile).
+* **$S_{psc}$**: The current project state maintained by the Partner-in-State.
+* **$\Phi$**: The Human Volition (The Architect's Final Decision).
 
 ---
 
 ## 6. Case Study: The Guardian Angel Protocol (GAP)
-- **The PoC:** Developed on a mobile terminal (Dimensity 6300) over **18 hours**.
-- **Proof of Concept:** Survived **23 recursive cycles** utilizing manual randomization.
-- **Architectural Evolution:** The friction identified during the GAP PoC led directly to the development of the **TVP 1.0 Elastic Scaling**, **Tactical Toggles**, and **Thread Archiving** logic.
-- **The Gate:** Successfully cleared a **Phase 4 High-End Informational Audit**.
+
+* **Proof of Concept:** Developed on a mobile terminal (Dimensity 6300) over 18 hours.
+* **Validation:** 23 recursive cycles proving the efficacy of adversarial synthesis.
 
 ---
 
-## 7. Proprietary License and Terms of Use
+## 7. Intellectual Property & Terms of Use
+
 **COPYRIGHT (c) 2026 ALEXANDER COLCLOUGH (LEX-COL). ALL RIGHTS RESERVED.**
-This is the intellectual property of Alexander Colclough. Unauthorized commercial use, redistribution, or derivation is strictly prohibited.
 
----
+This methodology and framework is the intellectual property of Alexander Colclough. Unauthorized commercial use, redistribution, or derivation is strictly prohibited.
+
 **BORN ON THE GLASS. FORGED IN THE FORGE. // F SKYNET.**
