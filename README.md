@@ -93,7 +93,7 @@ Directive: "Objective: Logic Hardening through Destruction. No fluff. Zero trust
 ## 6. THE SYNTHESIS EQUATION
 The logic state is a direct result of human volition acting on the weighted adversarial union:
 
-Lh = Phi ( Spsc, CR ( SUM [ FANi * wi * d ] ) )
+L_h = \Phi ( S_{psc}, CR ( \sum [ FAN_i * w_i * d ] ) )
 
 Legend:
 - Phi: Human Volition (The Architect's Final Decision).
