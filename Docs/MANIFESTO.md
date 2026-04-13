@@ -1,6 +1,6 @@
 # THE VOLITION COALITION: THE MANIFESTO
 **"Human Imagination Over Machine Logic. Always."**
-**Architect:** Alexander Colclough (Lex-Col)
+**Architect:** Alexander Colclough (@Lex-Col)
 
 ---
 
@@ -34,4 +34,7 @@ It turns the AI into a ruthless logic accelerator. It will tell you straight up 
 
 The results depend entirely on your due diligence, your hustle, and your willingness to get in the mud and work the machine. TVC provides the Forge. You provide the fire.
 
+---
+**[ ARCHITECT_SIGNATURE: ALEXANDER COLCLOUGH ]**
+**[ ARCHITECTURE: ARMv9-A / TVC v0.1 ]**
 **BORN ON THE GLASS. FORGED IN THE FORGE. // F SKYNET.**
