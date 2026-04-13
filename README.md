@@ -1,62 +1,50 @@
 # 🛰️ THE VOLITION COALITION (TVC) v0.1
 ### Universal Multi-Agent Peer Review & Strategic Ideation
 
-**Architect:** Alexander Colclough ([@Lex-Col](https://github.com/Lex-Col))
-**Date:** April 7, 2026
-
-> **"A World-Class Think Tank in Your Pocket. Agnostic. Adversarial. Sovereign."**
+**Architect:** Alexander Colclough (@Lex-Col)
+**License:** [UPAL v1.10 - PROPRIETARY]
 
 ---
 
-## 🌌 The Origin & Abstract
-The Volition Coalition (TVC) is a **Multi-Agent Context-Sharded Consensus (MACSC)** framework designed for total operator sovereignty (Phi). Born on a mobile terminal, TVC democratizes elite-level strategic ideation by replacing automated AI bias with an Architect-Governed Forge. It provides individuals the power of a world-class think tank, regardless of formal discipline.
+## 📑 BINDING LICENSE NOTICE
+**BY ACCESSING THIS REPOSITORY, YOU IRREVOCABLY AGREE TO THE TERMS OF THE UNIVERSAL PROPRIETARY ARCHITECTURE LICENSE (UPAL) v1.10.** * Strictly for natural persons in an individual capacity.
+* No corporate, government, or AI-training use permitted.
+* Unauthorized implementation triggers immediate contractual assignment of rights to the Author.
+
+---
+
+## 🌌 The Abstract
+**The Volition Coalition (TVC)** is a Multi-Agent Context-Sharded Consensus (MACSC) framework designed for total operator sovereignty (Phi). Born on a mobile terminal, TVC democratizes elite-level strategic ideation, replacing automated AI bias with an Architect-Governed Forge.
 
 ## 🛠️ Core Technical Pillars
-* **Axiom Pinning:** Foundational logic is pinned to active memory, nuking "fat" (regurgitated fluff) to prevent drift.
-* **Sovereignty Baseline:** The AI is a tool; the Human (Phi) is the sole arbitrator.
-* **The PSC (Partner-in-State) Protocol:** * **Continuity Anchor:** Acts as the project historian with a lossless connection to the HOT Vault.
-    * **Tactical Translator:** Bridges the "violence" of the Adversarial Forge and the Architect, filtering "Gold" from "Garbage".
-* **Hybrid SAP v0.1:** Dual-format receipts (JSON for machine indexing / Markdown for human audit).
+* **Axiom Pinning:** Foundational logic is pinned to active memory to prevent "fat" (drift).
+* **PSC (Partner-in-State) Protocol:** A dedicated contextual historian that maintains a lossless connection to the HOT Vault.
+* **Hybrid SAP:** Dual-parsing mechanism splitting telemetry into machine-indexed JSON and human-readable Markdown.
 
-## 🏗️ The 4-Phase Forge Workflow
-
-### Phase 1: Inception (The Anchor)
-Establishment of the **North Star**—the immutable core intent—and initialization of the PSC’s long-term memory bridge. The current "truth" payload is locked into the **Gold Manifest**.
-
-### Phase 3: The Forge (Tactical Control)
-The User (Phi) maintains control via the Advisory HUD, utilizing the **Orchestration Toggle** to dictate intelligence flow (Private vs. Cooperative Mode). Every critique is tagged via a **Threat Level Matrix** (Severity 1-10).
-
-### Phase 3: The Workshop (Synthesis & Hot-Swap)
-* **Waterfall Initiation:** Staggered agent queries to prevent hardware thermal/token limits.
-* **The Scrap Yard:** Raw JSON patches sit in a holding area to prevent Gold Manifest pollution until manual arbitration.
-* **Conflict Interceptor:** Flags "Logic Deadlocks" where nodes propose mutually exclusive patches, preventing mathematical noise.
-
-### Phase 4: Implementation (The Final Gatekeeper)
-A final reality check assessing if the project "has legs". While the Gatekeeper audits dependencies and success probability, **Phi retains the ultimate override**.
-
-## 🗄️ Memory Governance: The Vault
-TVC separates machine burden from human history using a tiered system:
-* **HOT (Active):** The Gold Manifest and Pinned Axioms.
-* **WARM (Cache):** Last 3-5 iterations, the Scrap Yard, and the UI timeline.
-* **COLD (Archive):** Full project logs for post-mission auditing.
-
----
+## 🏗️ The Forge Workflow
+1. **Inception (The Anchor):** Initialization of the **North Star** (immutable intent) and the **Gold Manifest** (current truth payload).
+2. **The Forge (Tactical Control):** Human (Phi) arbitration through Private (Blind Adversarial) or Cooperative (Huddle) modes.
+3. **The Workshop (Synthesis):** Adaptive "Waterfall" initiation and the **Conflict Matrix Interceptor** to identify structural deadlocks.
+4. **Implementation:** A final audit node validates if the project "has legs" before the final gate.
 
 ## 🧪 The Synthesis Equation
-The logic state is a direct result of human volition acting on the weighted adversarial union:
+TVC logic is the result of human volition acting on a weighted adversarial union:
 
 $$L_h = \Phi ( S_{psc}, CR ( \sum [ FAN_i \cdot w_i \cdot d ] ) )$$
 
-* **$\Phi$ (Phi):** Human Volition (The Final Decision).
-* **$S_{psc}$:** Current project state.
-* **$CR$:** Conflict Resolution Interceptor.
-* **$w_i$**: Weighting coefficient.
+* **$\Phi$**: Human Volition (Final Decision).
+* **$CR$**: Conflict Resolution Interceptor.
+* **$w_i$**: Weighting coefficient by agent archetype.
 * **$d$**: Diversity Penalty Factor.
+
+## 🗄️ Memory Governance: The Vault
+* **HOT:** Active Gold Manifest and Pinned Axioms.
+* **WARM:** Last 3-5 iterations and the UI timeline.
+* **COLD:** Full project logs for post-mission trail auditing.
 
 ---
 
 ## 🏛️ Proof of Democratization
-The TVC methodology was forged during the creation of the **Guardian Angel Protocol (GAP)**. It was conceptualized and gauntlet-tested entirely on a mobile terminal (Dimensity 6300) in an 18-hour sprint, proving that a solo operator with a vision can achieve boardroom-level logic hardening.
+The TVC methodology was forged during the 18-hour creation of the **Guardian Angel Protocol (GAP)**. Conceptualized, gauntlet-tested, and drafted entirely on a mobile terminal (Dimensity 6300).
 
-**COPYRIGHT (c) 2026 ALEXANDER COLCLOUGH. ALL RIGHTS RESERVED.**
-*TVC and its Synthesis Equation are proprietary terms of use.*
+**COPYRIGHT © 2026 ALEXANDER COLCLOUGH. ALL RIGHTS RESERVED.**
